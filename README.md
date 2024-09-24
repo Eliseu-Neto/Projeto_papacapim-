@@ -1,0 +1,1 @@
+Projeto da Materia de Programação Mobile. Aonde estamos reencriando uma especie de tweeter, consumindo uma API fornecida pelo professor em Ruby. Criamos a interface usando JavaScript no React Native  
